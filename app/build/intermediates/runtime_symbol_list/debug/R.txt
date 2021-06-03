@@ -1844,6 +1844,8 @@ int id dropdown_menu 0x7f080091
 int id easeIn 0x7f080092
 int id easeInOut 0x7f080093
 int id easeOut 0x7f080094
+int id editTextTextPassword 0x7f0801aa
+int id editTextTextPassword2 0x7f0801ab
 int id edit_query 0x7f080095
 int id elastic 0x7f080096
 int id end 0x7f080097
@@ -2177,7 +2179,9 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_contact 0x7f0b0070
 int layout activity_login 0x7f0b006f
+int layout activity_register 0x7f0b0071
 int layout activity_splash 0x7f0b001c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
@@ -2357,6 +2361,7 @@ int string mtrl_picker_toggle_to_calendar_input_mode 0x7f0e0059
 int string mtrl_picker_toggle_to_day_selection 0x7f0e005a
 int string mtrl_picker_toggle_to_text_input_mode 0x7f0e005b
 int string mtrl_picker_toggle_to_year_selection 0x7f0e005c
+int string ok 0x7f0e0064
 int string password_toggle_content_description 0x7f0e005d
 int string path_password_eye 0x7f0e005e
 int string path_password_eye_mask_strike_through 0x7f0e005f

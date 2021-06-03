@@ -8,6 +8,9 @@
         android:minSdkVersion="27"
         android:targetSdkVersion="30" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -19,6 +22,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AplicacionSostenesV2" >
+        <activity android:name="com.soul_six.aplicacionsostenesv2.ContactActivity" />
+        <activity android:name="com.soul_six.aplicacionsostenesv2.RegisterActivity" />
         <activity android:name="com.soul_six.aplicacionsostenesv2.LoginActivity" />
         <activity
             android:name="com.soul_six.aplicacionsostenesv2.SplashActivity"

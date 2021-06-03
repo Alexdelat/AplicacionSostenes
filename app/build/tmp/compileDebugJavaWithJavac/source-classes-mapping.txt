@@ -1,7 +1,14 @@
 com/soul_six/aplicacionsostenesv2/BuildConfig.java
  com.soul_six.aplicacionsostenesv2.BuildConfig
+com/soul_six/aplicacionsostenesv2/ConnectionHelper.java
+ com.soul_six.aplicacionsostenesv2.ConnectionHelper
 com/soul_six/aplicacionsostenesv2/SplashActivity.java
  com.soul_six.aplicacionsostenesv2.SplashActivity
  com.soul_six.aplicacionsostenesv2.SplashActivity$1
+com/soul_six/aplicacionsostenesv2/RegisterActivity.java
+ com.soul_six.aplicacionsostenesv2.RegisterActivity
+com/soul_six/aplicacionsostenesv2/ContactActivity.java
+ com.soul_six.aplicacionsostenesv2.ContactActivity
 com/soul_six/aplicacionsostenesv2/LoginActivity.java
  com.soul_six.aplicacionsostenesv2.LoginActivity
+ com.soul_six.aplicacionsostenesv2.LoginActivity$1
